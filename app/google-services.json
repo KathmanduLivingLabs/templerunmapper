@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104789451889",
+    "firebase_url": "https://temple-run-mapper.firebaseio.com",
+    "project_id": "temple-run-mapper",
+    "storage_bucket": "temple-run-mapper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104789451889:android:50949b377f63cef2",
+        "android_client_info": {
+          "package_name": "np.com.nirab.templerunmapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104789451889-v3649dt8ooja6ah80iqfp1s2lduv4okq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pOAcxOeJzIT97tBaWFbBG2TtIwG3ZJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

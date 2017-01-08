@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Temple Run Mapper</string>
+
+    <string-array name="temple_type_array">
+        <item>Not Selected</item>
+        <item>Hindu</item>
+        <item>Buddhist</item>
+        <item>Christian</item>
+        <item>Muslim</item>
+        <item>Jain</item>
+        <item>Sikh</item>
+        <item>Multiple</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="yes_no_array">
+        <item>Not Selected</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="opening_hour_array">
+        <item>Not Selected</item>
+        <item>24/7</item>
+        <item>Sunrise-Sunset Everyday</item>
+        <item>Only on Sunday</item>
+        <item>Only on Monday</item>
+        <item>Only on Tuesday</item>
+        <item>Only on Wednesday</item>
+        <item>Only on Thrusdayr</item>
+        <item>Only on Friday</item>
+        <item>Only on Saturday</item>
+        <item>Dont Know</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
